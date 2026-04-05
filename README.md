@@ -21,9 +21,9 @@ The design focuses on controlling access to important resources. The IT departme
 - Network documentation
 
 ## Files Included
-- `packet-tracer/school-network.pkt` – Packet Tracer project file
-- `docs/Arjun-Mohabir-Term-Project.pdf` – full written explanation of the network
-- `images/topology.png` – screenshot of the completed topology
+- `school-network.pkt` – Packet Tracer project file
+- `Arjun-Mohabir-School-Network-Project.pdf` – full written explanation of the network
+- `topology.png` – screenshot of the completed topology
 
 ## Author
 Arjun Mohabir
