@@ -1,5 +1,7 @@
 # School Network Design in Cisco Packet Tracer
 
+![Network Topology](topology.png)
+
 ## Overview
 This project is a small school network designed in Cisco Packet Tracer. The network is divided into separate segments for the server room, IT department, faculty/staff, students, and printer access. The goal was to create a network that is organized, secure, and efficient for a school environment.
 
